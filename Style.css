@@ -1,0 +1,106 @@
+img {
+    position: absolute;
+}
+
+.info {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13;
+}
+
+.msg {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13;
+    margin-left: 0.5cm;
+}
+
+.imgA1 {
+    z-index: 1;
+}
+
+.imgB1 {
+    z-index: 2;
+    left: 750;
+    text-align: center;
+}
+
+.centered {
+    position: relative;
+    text-align: center;
+    top: 50;
+    font-size: 24pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Flags {
+    position: relative;
+    top: 70;
+    left: 200;
+}
+
+.Thekings {
+    position: relative;
+    top: 70;
+    left: 1070;
+}
+
+.location {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13;
+}
+
+.people {
+    position: absolute;
+    top: 570;
+    left: 1100;
+    font-size: 30;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Number92 {
+    position: absolute;
+    top: 140;
+    left: 800;
+    font-size: 90;
+    color: red;
+}
+
+.TheMain {
+    position: absolute;
+    background-color: rgb(182, 182, 182);
+    top: 430;
+    right: 810;
+    left: 210;
+    width: 840;
+    padding: 10;
+}
+
+.chat {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px #88888888;
+    padding: 10px;
+}
+
+.page {
+    background-color: rgb(182, 182, 182);
+    position: absolute;
+    top: 2075;
+    right: 810;
+    left: 210;
+    width: 1420;
+}
+
+.icon {
+    height: 35;
+    width: 35;
+    position: absolute;
+    padding-right: 20px;
+}
+
+.icon1 {
+    height: 35;
+    width: 35;
+    position: absolute;
+    margin-bottom: .2cm;
+    padding-left: 10px;
+}
